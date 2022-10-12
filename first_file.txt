@@ -3,3 +3,4 @@ second line fork1
 third line
 fourth line
 added from the branch branch1
+added from the branch branch1 for the 2nd time.
