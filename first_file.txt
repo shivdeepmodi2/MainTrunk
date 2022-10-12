@@ -1,4 +1,7 @@
 first line
+checkout.fork1
 second line fork1
 third line
 checkout.fork1 branch
+=======
+Can i edit it?
